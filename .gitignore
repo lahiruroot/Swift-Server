@@ -1,6 +1,7 @@
 .DS_Store
 /.build
-/Packages
+/Packages..llss
+
 /*.xcodeproj
 *.swp
 data.txt
